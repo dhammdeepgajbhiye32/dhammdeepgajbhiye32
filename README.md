@@ -78,9 +78,9 @@ Currently working on:
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=/dhammdeepgajbhiye32&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=/dhammdeepgajbhiye32&theme=github-dark&border_radius=5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/dhammdeepgajbhiye32&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dhammdeepgajbhiye32&show_icons=true&theme=github_dark" />
+  <img src="https://streak-stats.demolab.com?user=dhammdeepgajbhiye32&theme=github-dark&border_radius=5" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhammdeepgajbhiye32&layout=compact&theme=github_dark" />
 </p>
 
 ---
@@ -88,7 +88,7 @@ Currently working on:
 ## 👀 Profile Visitors  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=/dhammdeepgajbhiye32&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=dhammdeepgajbhiye32&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
 
 ---
