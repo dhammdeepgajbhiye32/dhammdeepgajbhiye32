@@ -79,15 +79,15 @@ I am actively building projects and strengthening my skills to transition into a
  ### 📊 Key Visual Insights
 
 📈 **Patient Volume vs Treatment Cost Analysis**  
-<p align="center">
-  <img src="https://github.com/dhammdeepgajbhiye32/advanced-data-visualization-seaborn/blob/62e9e5e0316b03603909127c421dd280e9fd7142/Charts/019.Hospital_Patient_Volume_vs_Treatment_Cost.png" width="700"/>
-</p>
+
+<img width="998" height="800" alt="Screenshot (609)" src="https://github.com/user-attachments/assets/181b923a-c8b7-44cc-b29c-774284526265" />
+
  • "High patient volume does not always correlate with higher treatment costs, indicating operational and pricing differences across hospitals."
  
 🏥 **Top Hospitals by Patient Discharge Rate**  
-<p align="center">
-  <img src="https://github.com/dhammdeepgajbhiye32/advanced-data-visualization-seaborn/blob/62e9e5e0316b03603909127c421dd280e9fd7142/Charts/016.Top_10_Hospital_with_Higer_Patient_Discharge_Rates.png" width="700"/>
-</p>
+
+<img width="1483" height="583" alt="Screenshot (610)" src="https://github.com/user-attachments/assets/242ea92e-7dd1-461e-a378-e9cc3719cf17" />
+
  • "A small group of hospitals contributes to the majority of patient discharges, highlighting concentration in healthcare service delivery."
 
 ---
@@ -109,6 +109,8 @@ I am actively building projects and strengthening my skills to transition into a
 
 **🛠️ Tools Used:** **Excel, Data Analysis, Visualization, Pattern Detection** 
 
+<img width="1213" height="713" alt="Screenshot (616)" src="https://github.com/user-attachments/assets/ff8ad4e5-19a6-46e3-aac6-fc2905c97261" />
+
 - **Insights:** "Fraud cases and risk scores show an upward trend, indicating increasing vulnerability in transaction systems over time."
 - **Insights:** "A small number of categories and regions contribute to a major share of fraud cases, enabling targeted risk control and fraud prevention strategies."
 
@@ -128,26 +130,33 @@ I am actively building projects and strengthening my skills to transition into a
 
 **🛠️ Tools Used:** **Excel, Pivot Tables, Charts, Dashboard Design**  
 
-## 🧠 Data Analyst Capabilities  
-
-✔️ Data Cleaning & Preparation  
-✔️ Data Visualization & Storytelling  
-✔️ Dashboard Development  
-✔️ SQL Data Querying  
-✔️ Exploratory Data Analysis  
-✔️ Business Insight Generation  
+<img width="1101" height="664" alt="Screenshot (615)" src="https://github.com/user-attachments/assets/865511ab-e9c6-4289-884f-7144d42fb079" />
 
 ---
 
-## 🗺️ Learning Roadmap  
+📌 Continuously working on real-world datasets to strengthen analytical and business problem-solving skills.
 
-✔️ Excel → Advanced Dashboards  
-✔️ SQL → Data Querying  
-✔️ Power BI → Data Modeling & DAX  
-✔️ Python → EDA & Visualization  
-🔄 Real-world Case Studies  
+---
+
+## 📊 What I Bring
+
+✔️ Ability to clean and transform raw data into meaningful datasets
+✔️ Strong analytical mindset to identify trends and patterns
+✔️ Experience in building dashboards for business insights
+✔️ Proficiency in SQL for data extraction and manipulation
+✔️ Focus on delivering actionable insights, not just visualisations
+
+---
+
+## 🗺️ Learning & Growth
+
+✔️ Advanced SQL (Joins, Window Functions, CTEs)
+✔️ Power BI (Data Modeling, DAX)  
+✔️ Python (Advanced EDA & Analysis)  
+🔄 Real-world Business Case Studies  
+🔄 Interview Preparation
 🔄 Business Analytics Thinking  
-🔄 Machine Learning (Future)
+🔄 Machine Learning (Future Growth)
 
 ---
 
