@@ -163,9 +163,9 @@ I am actively building projects and strengthening my skills to transition into a
 ## 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhammdeepgajbhiye32&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=dhammdeepgajbhiye32&theme=github-dark&border_radius=5" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhammdeepgajbhiye32&layout=compact&theme=github_dark" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhammdeepgajbhiye32&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=dhammdeepgajbhiye32&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhammdeepgajbhiye32&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 
