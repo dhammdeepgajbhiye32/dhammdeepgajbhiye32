@@ -140,21 +140,21 @@ I am actively building projects and strengthening my skills to transition into a
 
 ## 📊 What I Bring
 
-✔️ Ability to clean and transform raw data into meaningful datasets
-✔️ Strong analytical mindset to identify trends and patterns
-✔️ Experience in building dashboards for business insights
-✔️ Proficiency in SQL for data extraction and manipulation
-✔️ Focus on delivering actionable insights, not just visualisations
+✔️ Ability to clean and transform raw data into meaningful datasets  
+✔️ Strong analytical mindset to identify trends and patterns  
+✔️ Experience in building dashboards for business insights  
+✔️ Proficiency in SQL for data extraction and manipulation  
+✔️ Focus on delivering actionable insights, not just visualisations  
 
 ---
 
 ## 🗺️ Learning & Growth
 
-✔️ Advanced SQL (Joins, Window Functions, CTEs)
+✔️ Advanced SQL (Joins, Window Functions, CTEs)  
 ✔️ Power BI (Data Modeling, DAX)  
 ✔️ Python (Advanced EDA & Analysis)  
 🔄 Real-world Business Case Studies  
-🔄 Interview Preparation
+🔄 Interview Preparation  
 🔄 Business Analytics Thinking  
 🔄 Machine Learning (Future Growth)
 
