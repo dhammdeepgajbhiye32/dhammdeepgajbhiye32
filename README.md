@@ -164,7 +164,13 @@ I am actively building projects and strengthening my skills to transition into a
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dhammdeepgajbhiye32&show_icons=true&theme=github_dark" />
-  <img src="https://streak-stats.demolab.com?user=dhammdeepgajbhiye32&theme=github-dark&border_radius=5" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhammdeepgajbhiye32&theme=github-dark" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhammdeepgajbhiye32&layout=compact&theme=github_dark" />
 </p>
 
