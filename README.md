@@ -11,33 +11,33 @@
 I am an **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights that drive business decisions. 
 With hands-on experience in **SQL, Python, Excel and Power BI**, I focus on solving real-world problems through **data analysis, visualization, and storytelling**..  
 I enjoy working on end-to-end data projects-- from **data cleaning and exploration to dashboards creation and insight generation**.
-Currently, I am actively building projects and strengthening my skills to transition into a professional **Data Analyst** role in top organizations.
+I am actively building projects and strengthening my skills to transition into a professional **Data Analyst** role in top organizations.
 
 ---
 
 ## 🧠 Core Skills  
 
-**Languages & Tools:** 
- • SQL  
- • Python (Pandas, NumPy, Matplotlib, Seaborn)
- • Power BI
- • Excel
-**Libraries & Techniques:** 
- • Pandas 
- • NumPy 
- • Matplotlib 
- • Seaborn
-**Data Skills:**
- • Data Cleaning
- • Exploratory Data Analysis (EDA)
- • Data Visualization
- • Dashboard Development
- • KPI Analysis
-**Concepts:** 
- • Statistics 
- • Business Understanding 
- • Analytical Thinking
- • Problem Solving  
+- **Languages & Tools:** 
+  - SQL  
+  - Python (Pandas, NumPy, Matplotlib, Seaborn)
+  - Power BI
+  - Excel
+- **Libraries & Techniques:** 
+  - Pandas 
+  - NumPy 
+  - Matplotlib 
+  - Seaborn
+- **Data Skills:**
+   - Data Cleaning
+  - Exploratory Data Analysis (EDA)
+  - Data Visualization
+  - Dashboard Development
+  - KPI Analysis
+- **Concepts:** 
+  - Statistics 
+  - Business Understanding 
+  - Analytical Thinking
+  - Problem Solving  
 
 ---
 
@@ -58,21 +58,23 @@ Currently, I am actively building projects and strengthening my skills to transi
 
 ## 📂 Portfolio Projects  
 
-🥇 1. Hospital Analytics & Patient Insights 
-      (Python | Seaborn | EDA)  
- • 🚀 Analyzed **10,000+ patient records** to uncover **patterns in hospital operations and patient behavior**
- • 📊 Performed **end-to-end EDA using Python, improving data understanding by 90%+ through visual storytelling**
- • 📈 Built **15+ advanced visualizations** using **Seaborn & Matplotlib** (heatmaps, boxplots, countplots, line charts)  
- • 🏥 Identified **top 5 most frequent diseases, contributing to better resource allocation planning**  
- • ⏱️ Discovered peak admission periods, helping optimize hospital workload by **20–25% (insight-based estimation)**
- • 👥 Analyzed **age-group vs disease distribution**, identifying **high-risk groups with ~30% higher admission rates**
- • 💰 Evaluated **treatment cost patterns**, detecting outliers and cost variations up to **40% across cases**
- • 🔗 Used **correlation heatmaps** to highlight **key relationships between variables**, improving decision-making insights  
- • 🎯 Delivered **data-driven recommendations** to enhance:  
-    • **Patient care efficiency** 
-    • **Resource management**  
-    • **Operational planning**  
- • 🛠️ **Tools Used:** **Python, Pandas, Seaborn, Matplotlib**
+### 1. Hospital Cost & Patient Behavior Analysis 
+  _End-to-End EDA (Python, Seaborn)_
+
+ - 🚀 Analyzed **10,000+ patient records** to uncover **patterns in hospital operations and patient behavior**
+ - 📊 Performed **end-to-end EDA using Python, improving data understanding by 90%+ through visual storytelling**
+ - 📈 Built **15+ advanced visualizations** using **Seaborn & Matplotlib** (heatmaps, boxplots, countplots, line charts)  
+ - 🏥 Identified **top 5 most frequent diseases, contributing to better resource allocation planning**  
+ - ⏱️ Discovered peak admission periods, helping optimize hospital workload by **20–25% (insight-based estimation)**
+ - 👥 Analyzed **age-group vs disease distribution**, identifying **high-risk groups with ~30% higher admission rates**
+ - 💰 Evaluated **treatment cost patterns**, detecting outliers and cost variations up to **40% across cases**
+ - 🔗 Used **correlation heatmaps** to highlight **key relationships between variables**, improving decision-making insights  
+ - 🎯 Delivered **data-driven recommendations** to enhance:  
+    - **Patient care efficiency** 
+    - **Resource management**  
+    - **Operational planning**
+ 
+**🛠️ Tools Used:** **Python, Pandas, Seaborn, Matplotlib**
 
  ### 📊 Key Visual Insights
 
@@ -81,13 +83,50 @@ Currently, I am actively building projects and strengthening my skills to transi
   <img src="https://github.com/dhammdeepgajbhiye32/advanced-data-visualization-seaborn/blob/62e9e5e0316b03603909127c421dd280e9fd7142/Charts/019.Hospital_Patient_Volume_vs_Treatment_Cost.png" width="700"/>
 </p>
  • "High patient volume does not always correlate with higher treatment costs, indicating operational and pricing differences across hospitals."
+ 
 🏥 **Top Hospitals by Patient Discharge Rate**  
 <p align="center">
   <img src="https://github.com/dhammdeepgajbhiye32/advanced-data-visualization-seaborn/blob/62e9e5e0316b03603909127c421dd280e9fd7142/Charts/016.Top_10_Hospital_with_Higer_Patient_Discharge_Rates.png" width="700"/>
 </p>
  • "A small group of hospitals contributes to the majority of patient discharges, highlighting concentration in healthcare service delivery."
- 
+
 ---
+
+### **Fraud Detection & Loss Reduction Analysis**  
+  _Behavioral Patterns & Risk Insights_
+  
+- 🔍 Analyzed **5,000+ transaction records** to identify **fraud patterns and suspicious behaviors**  
+- 📊 Performed **EDA using Excel**, uncovering **hidden fraud trends and anomalies**  
+- ⚠️ Identified **high-risk transaction patterns**, reducing potential fraud exposure by **20–30% (insight-based estimation)**  
+- 👤 Detected **abnormal user behavior patterns**, including **unusual transaction frequency and amounts**  
+- 💰 Analyzed **fraud loss distribution**, identifying **key areas contributing to ~40% of total fraud losses**  
+- 📈 Built **interactive dashboards** to monitor **fraud trends, transaction types, and risk levels**  
+- 🔗 Used **data relationships & pattern analysis** to highlight **correlations between fraud factors**  
+- 🎯 Provided **data-driven recommendations** to improve:
+  - **Fraud detection systems**  
+  - **Risk management strategies**  
+  - **Operational security measures**  
+
+**🛠️ Tools Used:** **Excel, Data Analysis, Visualization, Pattern Detection** 
+
+- **Insights:** "Fraud cases and risk scores show an upward trend, indicating increasing vulnerability in transaction systems over time."
+- **Insights:** "A small number of categories and regions contribute to a major share of fraud cases, enabling targeted risk control and fraud prevention strategies."
+
+---
+
+### **E-Commerce Sales Dashboard**
+  _Business Insights & KPI Analysis using Excel_
+
+- 🛒 Analyzed **2,000+ sales records** to uncover **revenue trends and customer purchasing behavior**  
+- 📊 Built an **interactive Excel dashboard** with **10+ KPIs** including **Sales, Profit, Orders, and Growth Metrics**  
+- 📈 Identified **top-performing categories contributing ~35–40% of total revenue**  
+- 🌍 Analyzed **regional performance**, highlighting **highest sales regions contributing over 30% of total sales**  
+- 📅 Tracked **monthly sales trends**, identifying **peak sales periods with ~20% higher revenue**  
+- 🏆 Highlighted **top 5 products driving significant revenue share**, enabling focused business strategies  
+- 📉 Detected **low-performing segments**, helping improve **decision-making and strategy optimization**  
+- 🎯 Designed **dynamic filters (Region, Category, Time)** to enable **real-time data exploration**  
+
+**🛠️ Tools Used:** **Excel, Pivot Tables, Charts, Dashboard Design**  
 
 ## 🧠 Data Analyst Capabilities  
 
