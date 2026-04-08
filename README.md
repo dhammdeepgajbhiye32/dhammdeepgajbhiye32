@@ -1,14 +1,22 @@
 <h1 align="center">Hi 👋, I'm Dhammdeep Gajbhiye | Data Analyst</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=520&lines=Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+into+Actionable+Business+Insights;Building+End-to-End+Data+Projects+📊" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Analyst+|+Turning+Data+into+Business+Insights;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;End-to-End+Data+Analysis+%7C+Machine+Learning;Building+Data-Driven+Solutions+📊" />
 </p>
 
----
+<p align="center">
+Turning raw data into actionable business insights using Python, SQL, and Power BI, with hands-on experience in end-to-end data analysis, machine learning, and dashboard development.
+</p>
+
+<p align="center">
+💻 Python | SQL | Power BI | Excel | Machine Learning
+</p>
+
+<hr style="border: 1px solid #2f2f2f; width: 60%;" />
 
 ## 👨‍💼 About Me  
 
-I am an **Aspiring Data Analyst** passionate about transforming raw data into meaningful insights that drive business decisions. 
+I am an **Data Analyst** passionate about transforming raw data into meaningful insights that drive business decisions. 
 With hands-on experience in **SQL, Python, Excel and Power BI**, I focus on solving real-world problems through **data analysis, visualization, and storytelling**..  
 I enjoy working on end-to-end data projects-- from **data cleaning and exploration to dashboards creation and insight generation**.
 I am actively building projects and strengthening my skills to transition into a professional **Data Analyst** role in top organizations.
