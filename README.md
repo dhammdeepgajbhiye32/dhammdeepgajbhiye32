@@ -100,7 +100,7 @@ I am actively building projects and strengthening my skills to transition into a
 
 ---
 
-### **Fraud Detection & Loss Reduction Analysis**  
+### 2. **Fraud Detection & Loss Reduction Analysis**  
   _Behavioral Patterns & Risk Insights_
   
 - 🔍 Analyzed **5,000+ transaction records** to identify **fraud patterns and suspicious behaviors**  
@@ -124,7 +124,7 @@ I am actively building projects and strengthening my skills to transition into a
 
 ---
 
-### **E-Commerce Sales Dashboard**
+### 3. **E-Commerce Sales Dashboard**
   _Business Insights & KPI Analysis using Excel_
 
 - 🛒 Analyzed **2,000+ sales records** to uncover **revenue trends and customer purchasing behavior**  
