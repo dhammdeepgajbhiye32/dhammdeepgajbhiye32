@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:f78166&height=120&section=header&text=Dhammadeep_Gajbhiye%20&fontSize=28&fontColor=ffffff&fontAlign=72&fontAlignY=40&desc=whoami%20▌&descAlign=78&descAlignY=60&animation=fadeIn" />
 
 <h1 align="center">Hi 👋, I'm Dhammdeep Gajbhiye | Data Analyst</h1>
@@ -27,35 +25,41 @@ I am actively building projects and strengthening my skills to transition into a
 
 ---
 
-## 🧠 Core Skills  
+## 🖥️ TECH STACK  
 
-- **Languages & Tools:** 
-  - SQL  
-  - Python (Pandas, NumPy, Matplotlib, Seaborn)
-  - Power BI
-  - Excel
-- **Libraries & Techniques:** 
-  - Pandas 
-  - NumPy 
-  - Matplotlib 
-  - Seaborn
-- **Data Skills:**
-   - Data Cleaning
-  - Exploratory Data Analysis (EDA)
-  - Data Visualization
-  - Dashboard Development
-  - KPI Analysis
-- **Concepts:** 
-  - Statistics 
-  - Business Understanding 
-  - Analytical Thinking
-  - Problem Solving  
+<div align="center">
+  
+**Languages:**
+
+| 🔵 **SQL / MySQL** | 🟢 **Python** | 🔴 **Matplotlib & Seaborn** |
+|:---:|:---:|:---:|
+| Querying · Joins · CTEs | Pandas · NumPy | Visualization |
+
+**Tools:**
+
+| 🟡 **Power BI** | 🟣 **Git / GitHub** | 🔵 **Excel** |
+|:---:|:---:|:---:|
+| Dashboards · DAX | Version Control | Pivot · VLOOKUP |
+
+**Data Skills:**
+
+| 🟡 **Data Preparation** | 🟣 **Business Analysis** | 🔵 **Reporting & Insights** |
+|:---:|:---:|:---:|
+| Cleaning · Transformation · Validation | KPI Analysis · Trend Analysis | Storytelling · Decision Making |
+
+**Concepts:** 
+
+| 🔵 **Statistics** | 🟢 **Business Understanding** | 🔴 **Analytical Thinking** | 🟡 **Problem Solving** |
+|:---:|:---:|:---:|:---:|
+| Hypothesis Testing · Distributions | KPIs · Business Metricss | Root Cause Analysi | Data-Driven Decisions |
+
+</div>
 
 ---
 
 ## 🛠️ Tools & Technologies  
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,github" /><br>
 
@@ -64,7 +68,7 @@ I am actively building projects and strengthening my skills to transition into a
 <img src="https://img.shields.io/badge/SQL-Data%20Analysis-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-EDA%20%26%20Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-</p>
+</div>
 
 ---
 
@@ -162,9 +166,9 @@ I am actively building projects and strengthening my skills to transition into a
 
 ## 🗺️ Learning & Growth
 
-✔️ Advanced SQL (Joins, Window Functions, CTEs)  
-✔️ Power BI (Data Modeling, DAX)  
-✔️ Python (Advanced EDA & Analysis)  
+🔄 Advanced SQL (Joins, Window Functions, CTEs)  
+🔄 Power BI (Data Modeling, DAX)  
+🔄 Python (Advanced EDA & Analysis)  
 🔄 Real-world Business Case Studies  
 🔄 Interview Preparation  
 🔄 Business Analytics Thinking  
@@ -174,20 +178,11 @@ I am actively building projects and strengthening my skills to transition into a
 
 ## 📊 GitHub Analytics  
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=dhammdeepgajbhiye32&show_icons=true&theme=github_dark&hide_border=true" />
   <img src="https://streak-stats.demolab.com?user=dhammdeepgajbhiye32&theme=github-dark&hide_border=true" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dhammdeepgajbhiye32&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-
----
-
-## 👀 Profile Visitors  
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhammdeepgajbhiye32&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
-</p>
+</div>
 
 ---
 
