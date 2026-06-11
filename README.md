@@ -1,3 +1,7 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:3fb950,100:f78166&height=120&section=header&text=Dhammadeep_Gajbhiye%20&fontSize=28&fontColor=ffffff&fontAlign=72&fontAlignY=40&desc=whoami%20▌&descAlign=78&descAlignY=60&animation=fadeIn" />
+
 <h1 align="center">Hi 👋, I'm Dhammdeep Gajbhiye | Data Analyst</h1>
 
 <p align="center">
@@ -198,3 +202,11 @@ I am actively building projects and strengthening my skills to transition into a
 <a href="mailto:dhammdeepgajbhiye32@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <br/>
+  <sub><code>status: open to work</code> · © Anubhav Saxena · Data Analyst</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f78166,50:3fb950,100:58a6ff&height=80&section=footer" />
